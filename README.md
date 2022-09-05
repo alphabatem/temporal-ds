@@ -1,6 +1,6 @@
-# Temportal Datastore SDK
+# Temporal Datastore SDK
 
-Coming Soon!
+Coming Soon.
 
 
 #ABTM #SHDW
